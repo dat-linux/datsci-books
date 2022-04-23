@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=R Markdown - The Definitive Guide
+Type=Application
+Exec=xdg-open https://bookdown.org/yihui/rmarkdown/
+Icon=.icons/book.png
+Categories=DatLinuxExtras;
+Terminal=false
+StartupNotify=false
+MimeType=
+
