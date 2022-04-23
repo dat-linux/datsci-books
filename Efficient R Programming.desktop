@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Efficient R Programming
 Type=Application
-Exec=https://csgillespie.github.io/efficientR/
+Exec=xdg-open https://csgillespie.github.io/efficientR/
 Icon=/usr/share/icons/datlinux/book.png
 Categories=DatLinuxExtras;
 Terminal=false

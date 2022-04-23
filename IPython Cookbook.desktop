@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=IPython Cookbook
 Type=Application
-Exec=https://ipython-books.github.io/
+Exec=xdg-open https://ipython-books.github.io/
 Icon=/usr/share/icons/datlinux/book.png
 Categories=DatLinuxExtras;
 Terminal=false

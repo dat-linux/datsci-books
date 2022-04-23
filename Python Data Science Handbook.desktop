@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Python Data Science Handbook
 Type=Application
-Exec=https://jakevdp.github.io/PythonDataScienceHandbook/
+Exec=xdg-open https://jakevdp.github.io/PythonDataScienceHandbook/
 Icon=/usr/share/icons/datlinux/book.png
 Categories=DatLinuxExtras;
 Terminal=false
