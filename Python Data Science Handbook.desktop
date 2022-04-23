@@ -1,8 +1,8 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=R Markdown - The Definitive Guide
+Name=Python Data Science Handbook
 Type=Application
-Exec=xdg-open https://bookdown.org/yihui/rmarkdown/
+Exec=https://jakevdp.github.io/PythonDataScienceHandbook/
 Icon=/usr/share/icons/datlinux/book.png
 Categories=DatLinuxExtras;
 Terminal=false
