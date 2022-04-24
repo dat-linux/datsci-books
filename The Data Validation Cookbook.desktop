@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=The Data Validation Cookbook
+Type=Application
+Exec=xdg-open https://data-cleaning.github.io/validate/
+Icon=/usr/share/icons/datlinux/book.png
+Categories=DatLinuxExtras;
+Terminal=false
+StartupNotify=false
+MimeType=

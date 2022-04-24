@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Statistical Thinking for the 21st Century
+Type=Application
+Exec=xdg-open https://statsthinking21.github.io/statsthinking21-core-site/index.html
+Icon=/usr/share/icons/datlinux/book.png
+Categories=DatLinuxExtras;
+Terminal=false
+StartupNotify=false
+MimeType=

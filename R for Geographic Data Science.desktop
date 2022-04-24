@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=R for Geographic Data Science
+Type=Application
+Exec=xdg-open https://sdesabbata.github.io/r-for-geographic-data-science/
+Icon=/usr/share/icons/datlinux/book.png
+Categories=DatLinuxExtras;
+Terminal=false
+StartupNotify=false
+MimeType=

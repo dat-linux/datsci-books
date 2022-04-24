@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Statistical Methods for Data Science
+Type=Application
+Exec=xdg-open https://epurdom.github.io/Stat131A/book/
+Icon=/usr/share/icons/datlinux/book.png
+Categories=DatLinuxExtras;
+Terminal=false
+StartupNotify=false
+MimeType=
