@@ -1,6 +1,6 @@
 # Add a Book
 
-Clone this repo
+Clone this repo (https://github.com/dat-linux/datsci-books)
 
 Create a **BookName.desktop** file, with new **Name=BookName**, **Exec=xdg-open https://..** fields
 
