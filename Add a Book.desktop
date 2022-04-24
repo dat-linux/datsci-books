@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Add a Book!
+Type=Application
+Exec=xdg-open https://github.com/dat-linux/datsci-books/tree/main#readme
+Icon=dialog-information
+Categories=DatLinuxExtras;
+Terminal=false
+StartupNotify=false
+MimeType=
