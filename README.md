@@ -12,3 +12,5 @@ A new link will appear on DAT Linux when you next use the "📗️ Free Online B
 
 Easy :)
 
+> NOTE! Only books in HTML format that have been freely published on the web by the copyright owner will qualify. 
+
