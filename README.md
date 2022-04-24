@@ -2,7 +2,7 @@
 
 Clone this repo (https://github.com/dat-linux/datsci-books)
 
-Create a **BookName.desktop** file, with new **Name=BookName**, **Exec=xdg-open https://..** fields
+Create a **BookName.desktop** file (copy any other existing one), with new **Name=BookName**, **Exec=xdg-open https://..** fields
 
 Issue a pull request to the main branch on this repo
 
