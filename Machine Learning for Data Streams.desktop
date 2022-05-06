@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Machine Learning for Data Streams
+Type=Application
+Exec=xdg-open https://book.moa.cms.waikato.ac.nz/title_page.html/
+Icon=/usr/share/icons/datlinux/book.png
+Categories=DatLinuxExtras;
+Terminal=false
+StartupNotify=false
+MimeType=
