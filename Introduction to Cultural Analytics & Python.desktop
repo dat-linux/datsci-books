@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Introduction to Cultural Analytics & Python
+Type=Application
+Exec=xdg-open https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html
+Icon=/usr/share/icons/datlinux/book.png
+Categories=DatLinuxExtras;
+Terminal=false
+StartupNotify=false
+MimeType=
