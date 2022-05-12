@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=The Hitchhiker's Guide to Python
+Type=Application
+Exec=xdg-open https://docs.python-guide.org/
+Icon=/usr/share/icons/datlinux/book.png
+Categories=DatLinuxExtras;
+Terminal=false
+StartupNotify=false
+MimeType=
